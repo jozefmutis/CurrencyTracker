@@ -1,0 +1,9 @@
+## Interface: 30300
+## Title: Currency Tracker
+## Notes: Shows gold and tokens from alts.
+## Author: Ichglaube@Icecrown
+## Version: 1.0.0
+## SavedVariables: CurrencyTrackerDB
+
+CurrencyTracker.xml
+CurrencyTracker.lua
